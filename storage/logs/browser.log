@@ -1,0 +1,159 @@
+[2026-11-10 07:01:19] local.DEBUG: [vite] connecting... {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T07:01:15.858Z"} 
+[2026-11-10 07:01:28] local.DEBUG: [vite] connected. {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T07:01:27.600Z"} 
+[2026-11-10 07:02:07] local.DEBUG: [vite] connecting... {"url":"http://localhost:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T07:02:07.013Z"} 
+[2026-11-10 07:02:17] local.DEBUG: [vite] connected. {"url":"http://localhost:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T07:02:16.851Z"} 
+[2026-11-10 07:02:21] local.WARNING: [Vue warn]: Component provided template option but runtime compilation is not supported in this build of Vue. Configure your bundler to alias "vue" to "vue/dist/vue.esm-bundler.js". null at <App> {"url":"http://localhost:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T07:02:20.736Z"} 
+[2026-11-10 16:42:31] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-23 http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-23 SyntaxError: https://vuejs.org/error-reference/#compiler-23
+    at ve (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:23835)
+    at Gt (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1142)
+    at Object.onclosetag (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:28419)
+    at Yy.stateInClosingTagName (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:16858)
+    at Yy.parse (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:21939)
+    at vb (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1515)
+    at g0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:21264)
+    at M0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:25874)
+    at D0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:26389)
+    at Bf (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:3:48709) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.2 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36","timestamp":"2026-11-10T16:42:30.728Z"} 
+[2026-11-10 16:42:32] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-23 http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-23 SyntaxError: https://vuejs.org/error-reference/#compiler-23
+    at ve (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:23835)
+    at Gt (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1142)
+    at Object.onclosetag (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:28419)
+    at Yy.stateInClosingTagName (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:16858)
+    at Yy.parse (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:21939)
+    at vb (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1515)
+    at g0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:21264)
+    at M0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:25874)
+    at D0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:26389)
+    at Bf (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:3:48709) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.2 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36","timestamp":"2026-11-10T16:42:30.745Z"} 
+[2026-11-10 16:43:03] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-23 http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-23 SyntaxError: https://vuejs.org/error-reference/#compiler-23
+    at ve (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:23835)
+    at Gt (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1142)
+    at Object.onclosetag (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:28419)
+    at Yy.stateInClosingTagName (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:16858)
+    at Yy.parse (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:21939)
+    at vb (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1515)
+    at g0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:21264)
+    at M0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:25874)
+    at D0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:26389)
+    at Bf (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:3:48709) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:43:02.933Z"} 
+[2026-11-10 16:43:03] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-23 http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-23 SyntaxError: https://vuejs.org/error-reference/#compiler-23
+    at ve (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:23835)
+    at Gt (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1142)
+    at Object.onclosetag (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:28419)
+    at Yy.stateInClosingTagName (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:16858)
+    at Yy.parse (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:4:21939)
+    at vb (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:5:1515)
+    at g0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:21264)
+    at M0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:25874)
+    at D0 (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:10:26389)
+    at Bf (http://127.0.0.1:8000/build/assets/app-B-Po1EuW.js:3:48709) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:43:02.935Z"} 
+[2026-11-10 16:44:54] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.2 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36","timestamp":"2026-11-10T16:44:53.109Z"} 
+[2026-11-10 16:44:54] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.2 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36","timestamp":"2026-11-10T16:44:53.110Z"} 
+[2026-11-10 16:46:18] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.2 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36","timestamp":"2026-11-10T16:46:17.207Z"} 
+[2026-11-10 16:46:18] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.145.2 Chrome/150.0.7871.250 Electron/43.8.3 Safari/537.36","timestamp":"2026-11-10T16:46:17.208Z"} 
+[2026-11-10 16:46:19] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:46:18.858Z"} 
+[2026-11-10 16:46:19] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:46:18.859Z"} 
+[2026-11-10 16:46:22] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:46:22.405Z"} 
+[2026-11-10 16:46:22] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:46:22.406Z"} 
+[2026-11-10 16:46:26] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:46:26.208Z"} 
+[2026-11-10 16:46:26] local.ERROR: Uncaught SyntaxError: https://vuejs.org/error-reference/#compiler-30 http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js 4 23835 SyntaxError https://vuejs.org/error-reference/#compiler-30 SyntaxError: https://vuejs.org/error-reference/#compiler-30
+    at ve (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:4:23835)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:5030)
+    at http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4149
+    at Array.<anonymous> (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8530)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7965)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Rb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:7851)
+    at no (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:5:8229)
+    at Kb (http://127.0.0.1:8000/build/assets/app-e7fzMlqC.js:10:4981) {"url":"http://127.0.0.1:8000/","user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36","timestamp":"2026-11-10T16:46:26.209Z"} 

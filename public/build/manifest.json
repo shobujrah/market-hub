@@ -1,0 +1,17 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/css-Dil0IDXs.css",
+    "src": "resources/css/app.css",
+    "isEntry": true,
+    "name": "css",
+    "names": [
+      "css.css"
+    ]
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-Wu_cP-62.js",
+    "name": "app",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
